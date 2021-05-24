@@ -1,0 +1,7 @@
+applications:
+- disk_quota: 1024M
+  host: InternetBanking
+  name: FUND-TRANSFER-DEMO
+  path: fundTransferJ.war
+  instances: 1
+  memory: 512M
